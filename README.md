@@ -8,11 +8,11 @@ Kasper is a clean, responsive, one-page HTML/CSS template adapted from a free PS
 
 ## Features
 
-- Modern & minimal one-page layout
-- Fully responsive (mobile → desktop)
-- Easy to customize via CSS variables in `css/kasper.css`
-- Includes Font Awesome icons and Google Fonts
-- Lightweight, static-only — ready to deploy on any static host
+- ✨ Modern & minimal one-page layout
+- 📱 Fully responsive (mobile → desktop)
+- 🎨 Easy to customize via CSS variables in `css/kasper.css`
+- 📦 Includes Font Awesome icons and Google Fonts
+- ⚡ Lightweight, static-only — ready to deploy on any static host
 
 ## Sections
 
@@ -46,11 +46,12 @@ Template-Kasper/
 
 ## Technologies Used
 
-- HTML5 — semantic markup
-- CSS3 — variables and responsive media queries
-- Font Awesome — icons
-- Google Fonts — typography
-- Vanilla JavaScript — simple UI interactions
+- **HTML5** — semantic markup
+- **CSS3** — variables and responsive media queries
+- **Font Awesome** — icons
+- **Google Fonts** — typography
+- **Vanilla JavaScript** — simple UI interactions
+- **Responsive Design** - Mobile-first approach with media queries
 
 ## CSS Variables
 
@@ -71,22 +72,23 @@ npx http-server -p 8000
 
 - Change primary colors and spacing in `css/kasper.css` (root variables).
 - Edit content and sections in `index.html` to fit your project.
+- Use the existing section structure as a template to add new sections to the page.
 - Replace images in `images/` with your own assets.
 
 ## Browser Support
 
-- Chrome (latest)
-- Firefox (latest)
-- Safari (latest)
-- Edge (latest)
-- Mobile browsers
+- ✅ Chrome (latest)
+- ✅ Firefox (latest)
+- ✅ Safari (latest)
+- ✅ Edge (latest)
+- ✅ Mobile browsers
 
 ## Responsive Breakpoints
 
-- Mobile: < 768px
-- Tablet: 768px - 991px
-- Desktop: 992px - 1199px
-- Large Desktop: ≥ 1200px
+- **Mobile:** < 768px
+- **Tablet:** 768px - 991px
+- **Desktop:** 992px - 1199px
+- **Large Desktop:** ≥ 1200px
 
 ## Dependencies
 
@@ -95,10 +97,7 @@ npx http-server -p 8000
 
 ## Credits
 
-Design adapted from a free PSD template on Graphberry:
-
-https://www.graphberry.com/item/kasper-one-page-psd-template
-
+Design adapted from a free PSD template on [Graphberry](https://www.graphberry.com/item/kasper-one-page-psd-template)
 Please refer to the original Graphberry listing for the PSD and the original author's usage terms.
 
 ## License
@@ -116,8 +115,8 @@ Contributions are welcome. Typical workflow:
 
 ## Contact
 
-Open an issue on GitHub for questions or support.
+For questions or support, please open an issue on GitHub.
 
 ---
 
-Made with ❤️ — adapted for Template-Kasper
+**Made with ❤️ by Amr Khaled**
