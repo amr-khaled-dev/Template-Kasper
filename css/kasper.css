@@ -350,7 +350,11 @@ header nav .form i {
 
 @media (max-width: 767px) {
     .landing .change-background {
-        display: none;
+        /* display: none; */
+        width: 20px;
+        height: 20px;
+        line-height: 20px;
+        font-size: 15px;
     }
 }
 
